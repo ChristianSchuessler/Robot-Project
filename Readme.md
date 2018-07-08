@@ -5,4 +5,4 @@ Am Anfang wollen wir dieses Tutorial:
 https://tutorials-raspberrypi.de/raspberry-pi-roboter-bausatz-zusammenbau/
 umsetzen um erstmal reinzukommen.
 
-Anschließend wollen wir uns weitere Dinge überlegen
+Anschließend wollen wir uns weitere Dinge überlegen.
