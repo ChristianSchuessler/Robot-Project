@@ -1,3 +1,6 @@
 + Roboter soll fahren können
 + Raspberry pi 
 + Mit Sensoren erweiterbar sein
+
+Einkaufsliste:
+https://www.amazon.de/registry/wishlist/2NAWZ378EAYBZ
