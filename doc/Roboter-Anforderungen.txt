@@ -1,0 +1,3 @@
++ Roboter soll fahren können
++ Raspberry pi 
++ Mit Sensoren erweiterbar sein
