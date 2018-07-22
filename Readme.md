@@ -6,3 +6,6 @@ https://tutorials-raspberrypi.de/raspberry-pi-roboter-bausatz-zusammenbau/
 umsetzen um erstmal reinzukommen.
 
 Anschließend wollen wir uns weitere Dinge überlegen.
+
+## Weitere Quellen
+https://tutorials-raspberrypi.de/raspberry-pi-sensoren-uebersicht-die-50-wichtigsten-module/#motion
