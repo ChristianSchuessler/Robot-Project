@@ -1,6 +1,6 @@
-+ Roboter soll fahren können
++ Roboter soll fahren kï¿½nnen
 + Raspberry pi 
 + Mit Sensoren erweiterbar sein
-
+Test Test
 Einkaufsliste:
 https://www.amazon.de/registry/wishlist/2NAWZ378EAYBZ
