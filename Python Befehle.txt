@@ -1,0 +1,38 @@
+	Operatoren:
+
+**	=	Potenz
+*	=	Mulitplikation
+/	=	Division
+//	=	ganzzahlige Division
+%	=	Modulo-Opteration
++	=	Addition
+-	=	Subtraktion
+
+
+	Funktionen:
+
+abs(x)		=	Liefert absoluten Positiven Wert
+float(x)	=	Liefert Gleitkommazahl
+int(x)		=	Liefert nach unten gerundete Zahl
+round(x,[n])	=	x wird auf n Stellen gerundet
+
+	Eingabe Ausgabe
+
+
+variable = Datei Typ(input (x))
+print (x, y, ...)
+
+
+	If Funktionen:
+
+if x < y:
+    Anweisungsblock 1
+else:
+    Anweisungsblock 2	
+
+if x < y:
+    Anweisungsblock 1
+elif x < y:
+    Anweisungsblock 2
+else x < y:
+    Anweisungsblock 3
