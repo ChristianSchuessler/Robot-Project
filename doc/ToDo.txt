@@ -1,11 +1,28 @@
 Nächstes treffen 5. August 2018
 
 Bis dahin, versucht Chris das Zeug soweit "zum laufen" zu bringen.
-Stefan bringt Python bei
+Stefan bringt sich Python bei
 
 Material:
 - Lötkolben
 - Multimeter
+
+
+2018-08-05
+==========
+
+nächster Meilenstein: 
+- Roboter soll autark fahren können. Also mit Akku/batterie ohne externen Stromanschluss
+- Abstandssensor kann angesteuert und ausgewertet werden
+
+ToDos:
+- Platine für Treiber-IC löten
+- Rpi übers Netzwerk steuern
+- Rpi mit Akku bzw Batterien mit Strom vesorgen
+- Daten von Sensor auslesen
+
+
+
 
 
 
